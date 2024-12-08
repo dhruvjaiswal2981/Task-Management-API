@@ -32,7 +32,8 @@
 - Create a .env file in the root of the project and add the following:
     ```bash
     PORT=5000
-    MONGO_URI=mongodb://localhost:27017/taskmanager
+    MONGO_URI=mongodb://localhost:27017/taskdb
+
 
 4. Start the application:
     ```bash
@@ -47,4 +48,4 @@
 
 ## Deployment
 - Live Demo: The application is hosted on Render.
-- Access it here: 
+- Access it here: https://task-management-api-jt2v.onrender.com
